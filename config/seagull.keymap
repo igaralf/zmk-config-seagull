@@ -42,7 +42,7 @@
         layer_numpad {
             display-name = "Numpad";
             bindings = <
-                &kp F12    &kp LALT    &kp LALT    &kp LALT
+                &kp F12    &kp LALT    &kp LALT    &kp ESC
                 &kp F8    &kp F9    &kp F10    &kp F11
                 &kp F4    &kp F5    &kp F6    &kp F7    &kp KP_ENTER
                 &kp LALT    &kp F1   &kp F2  &kp F3
